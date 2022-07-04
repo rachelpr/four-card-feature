@@ -74,7 +74,7 @@ header h1 {
   float: right;
 }
 
-@media (max-width: 1440px) and (min-width: 375px) {
+@media (max-width: 950px) and (min-width: 375px) {
   header {
     width: 370px;
   }
