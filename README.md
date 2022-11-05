@@ -40,7 +40,7 @@ Mobile Preview:
 
 ## My process
 
-1. First I started by drafting on paper what the page should look like. This helped me visualize how to organize the elements on the page, which cam in particularly handy with the card layout.
+1. First I started by drafting on paper what the page should look like. This helped me visualize how to organize the elements on the page, which came in particularly handy with the card layout.
 2. Second, I went through index.html and applied the appropriate HTML tags
 3. From there I worked on styling the elements
 
